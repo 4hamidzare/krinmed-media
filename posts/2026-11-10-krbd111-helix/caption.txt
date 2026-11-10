@@ -1,0 +1,36 @@
+بخار واقعاً به داخل مسیرهای باریک می‌رسه؟
+سیستم تست هلیکس با یه مسیر باریک و مشخص، نفوذ بخار رو در خودِ وسیله‌ی تست می‌سنجه؛ نه تک‌تک ابزارهای توخالی رو.
+✔️ اجزا: لوله‌ی PTFE به طول ۴ متر، کپسول استیل ضدزنگ و نوار اندیکاتور مصرفی
+✔️ کل ناحیه‌ی واکنش نوار رو با نمونه‌ی مرجع مقایسه کنید؛ نتیجه‌ی مبهم نیاز به بررسی داره
+⚠️ نتیجه‌ی اندیکاتور شیمیایی به‌تنهایی استریل بودن رو ثابت نمی‌کنه
+طبق دستورالعمل استفاده به کار ببرید.
+سیستم تست هلیکس EEP KRBD-111، از کرین‌مد
+
+Does steam really reach inside narrow channels?
+The Helix Test System uses a defined narrow path to assess steam penetration in the test device itself, not in every hollow instrument.
+✔️ Components: a 4 m PTFE tube, a stainless-steel capsule and a consumable indicator strip
+✔️ Compare the whole reactive area with the reference; an unclear result requires investigation
+⚠️ A chemical indicator result alone does not prove sterility
+Use according to the IFU.
+EEP Helix Test System KRBD-111, from Krinmed
+
+هل يصل البخار فعلاً إلى داخل المسارات الضيقة؟
+يقيّم نظام اختبار Helix نفاذ البخار عبر مسار ضيق ومحدد داخل أداة الاختبار نفسها، لا في كل أداة مجوّفة.
+✔️ المكوّنات: أنبوب PTFE بطول 4 أمتار، وكبسولة من الفولاذ المقاوم للصدأ، وشريط مؤشر استهلاكي
+✔️ قارنوا منطقة التفاعل كاملةً بالنموذج المرجعي؛ والنتيجة غير الواضحة تستدعي التحقق
+⚠️ نتيجة المؤشر الكيميائي وحدها لا تُثبت تحقّق التعقيم
+يُستخدم وفق تعليمات الاستخدام.
+نظام اختبار Helix من EEP ‏KRBD-111، من Krinmed
+
+Доходит ли пар до узких каналов?
+Тест-система Helix оценивает проникновение пара через заданный узкий канал в самом тестовом устройстве, а не в каждом полом инструменте.
+✔️ Состав: трубка из PTFE длиной 4 м, капсула из нержавеющей стали и сменная индикаторная полоска
+✔️ Сравнивайте всю индикаторную зону с эталоном; неясный результат требует проверки
+⚠️ Результат химического индикатора сам по себе не доказывает стерильность
+Применяйте согласно инструкции по применению.
+Тест-система Helix EEP KRBD-111 от Krinmed
+
+📚 Sources: krinmed.com · CDC Sterilizing Practices
+📩 info@krinmed.com
+
+#SterileProcessing #CSSD #InfectionControl #HelixTest #SteamSterilization #استریلیزاسیون #کرین_مد #EEP #تعقيم #стерилизация #Krinmed

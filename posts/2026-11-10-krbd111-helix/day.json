@@ -1,0 +1,36 @@
+{
+ "out": "out",
+ "foot": "Sources: krinmed.com · CDC Sterilizing Practices",
+ "slides": [
+  {
+   "fa": "بخار واقعاً به داخل مسیرهای باریک می‌رسد؟",
+   "en": "Does steam really reach inside narrow channels?",
+   "image": "bowie-dick-helix-device-02.png"
+  },
+  {
+   "fa": "سیستم تست هلیکس با یک مسیر باریک و مشخص، نفوذ بخار را در خودِ وسیله‌ی تست می‌سنجد.",
+   "en": "The Helix Test System uses a defined narrow path to assess steam penetration in the test device itself.",
+   "foot": "Source: krinmed.com · EEP Helix Test System"
+  },
+  {
+   "fa": "لوله‌ی PTFE به طول ۴ متر، کپسول استیل ضدزنگ و نوار اندیکاتور مصرفی",
+   "en": "A 4 m PTFE tube, a stainless-steel capsule and a consumable indicator strip.",
+   "tag": "✓ اجزا · COMPONENTS",
+   "tagcolor": "green",
+   "foot": "Source: krinmed.com · EEP Helix Test System"
+  },
+  {
+   "fa": "کل ناحیه‌ی واکنش نوار را با نمونه‌ی مرجع مقایسه کنید. نتیجه‌ی مبهم نیاز به بررسی دارد.",
+   "en": "Compare the whole reactive area with the reference. An unclear result requires investigation.",
+   "foot": "Source: krinmed.com · EEP Helix Test System"
+  },
+  {
+   "fa": "نتیجه‌ی اندیکاتور شیمیایی به‌تنهایی استریل بودن را ثابت نمی‌کند.",
+   "en": "A chemical indicator result alone does not prove sterility.",
+   "image": "bowie-dick-helix-device-kit-01.png",
+   "eep": true,
+   "tag": "Helix Test System · KRBD-111",
+   "tagcolor": "maroon"
+  }
+ ]
+}
