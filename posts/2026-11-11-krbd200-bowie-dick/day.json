@@ -1,0 +1,39 @@
+{
+ "out": "out",
+ "foot": "Sources: krinmed.com · CDC Steam Sterilization · ISO 11140-1",
+ "slides": [
+  {
+   "fa": "پیش از اولین پک امروز، بووی‌دیک زدید؟",
+   "en": "Before today's first load: did you run a Bowie-Dick test?",
+   "image": "bowie-dick-test-pack-dark-02.png"
+  },
+  {
+   "fa": "هوای باقی‌مانده در چمبر جلوی رسیدن بخار به سطوح را می‌گیرد. بووی‌دیک نشت هوا و تخلیهٔ ناکافی آن را آشکار می‌کند.",
+   "en": "Residual air blocks steam from reaching surfaces. The Bowie-Dick test reveals air leaks and inadequate air removal.",
+   "foot": "Source: CDC · Steam Sterilization"
+  },
+  {
+   "fa": "هر روز کاری، پیش از اولین پک، در چمبر خالی؛ با چرخه و جایگذاری طبق دستورالعمل.",
+   "en": "Every working day, before the first load, in an empty chamber, per the instructions.",
+   "tag": "✓ STANDARD PRACTICE · روال استاندارد",
+   "tagcolor": "green",
+   "foot": "Source: CDC · Steam Sterilization"
+  },
+  {
+   "fa": "در ISO 11140-1، اندیکاتورهای بووی‌دیک در تیپ ۲ (آزمون‌های خاص) قرار می‌گیرند.",
+   "en": "ISO 11140-1 places Bowie-Dick indicators in Type 2 (specific tests).",
+   "tag": "ISO 11140-1 · TYPE 2",
+   "tagcolor": "maroon",
+   "foot": "Source: ISO 11140-1 (via STERIS Life Sciences)"
+  },
+  {
+   "fa": "رد شد؟ تا بازبینی و قبولی دوباره، از دستگاه استفاده نکنید.",
+   "en": "Failed? Don't use the sterilizer until it's inspected and passes again.",
+   "image": "bowie-dick-test-pack-01.png",
+   "eep": true,
+   "tag": "Bowie-Dick Test Pack · KRBD-200",
+   "tagcolor": "maroon",
+   "foot": "Source: krinmed.com · EEP KRBD-200 · CDC"
+  }
+ ]
+}
